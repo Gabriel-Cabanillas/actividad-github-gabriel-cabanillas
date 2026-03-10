@@ -1,0 +1,9 @@
+Nombre del alumno: Gabriel Cabanillas
+Fecha: 10/03/2026
+
+Objetivo de la actividad:
+Practicar el flujo de trabajo en GitHub creando un repositorio, trabajando con ramas y realizando un Pull Request.
+Opinion personal; es super interactivo y divertido la vdd.
+
+¿Qué es un Pull Request?
+Un Pull Request es una solicitud para fusionar los cambios realizados en una rama hacia otra rama del repositorio, normalmente hacia la rama principal.
